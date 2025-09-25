@@ -1,1 +1,2 @@
 # labScaleExcavator
+![Overview](./overview.png)
